@@ -81,6 +81,7 @@ Client-server chat applications are foundational to real-time communication over
 # output:
 client :
 ![client 1](https://github.com/Lakshmi-v-Priya/ChatStudy/assets/151720706/78d3c4ac-8e35-45ac-b2e2-b549f0aeddef)
+
 server :
 ![Screenshot 2024-04-05 103053](https://github.com/Lakshmi-v-Priya/ChatStudy/assets/151720706/aa7a7716-4e1d-465e-b274-0f26f39543aa)
 
